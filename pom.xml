@@ -12,7 +12,7 @@
     <description>GO Main components 2</description>
 
     <properties>
-        <commons.version>0.0.1</commons.version>
+        <commons.version>1.1.1</commons.version>
         <scala.version>2.11.7</scala.version>
         <junit-version>4.11</junit-version>
     </properties>
@@ -60,8 +60,8 @@
         </repository>
     </repositories>
     <scm>
-    <developerConnection>scm:git:git@github.com:antmyth/go-main1.git</developerConnection>
-    <tag>HEAD</tag>
+        <developerConnection>scm:git:git@github.com:antmyth/go_main2.git</developerConnection>
+        <tag>HEAD</tag>
     </scm>
     <build>
         <plugins>
