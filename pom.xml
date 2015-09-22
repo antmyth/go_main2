@@ -7,7 +7,7 @@
     <version>0.0.31-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>GO Main components 2</name>
-    <description>GO Main components 2 update3</description>
+    <description>GO Main components 2 update4</description>
 
     <properties>
         <commons.version>0.0.36</commons.version>
