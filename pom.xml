@@ -4,7 +4,7 @@
 
     <groupId>com.nature.hub</groupId>
     <artifactId>go-main2</artifactId>
-    <version>0.0.37</version>
+    <version>0.0.38-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>GO Main components 2</name>
     <description>GO Main components 2 update4</description>
@@ -59,7 +59,7 @@
     </repositories>
     <scm>
         <developerConnection>scm:git:git@github.com:antmyth/go_main2.git</developerConnection>
-        <tag>go-main2-0.0.37</tag>
+        <tag>HEAD</tag>
     </scm>
     <build>
         <plugins>
