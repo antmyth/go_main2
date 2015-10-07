@@ -10,7 +10,7 @@
     <description>GO Main components 2 update4</description>
 
     <properties>
-        <commons.version>0.0.57-SNAPSHOT</commons.version>
+        <commons.version>0.0.57</commons.version>
         <scala.version>2.11.7</scala.version>
         <junit-version>4.11</junit-version>
     </properties>
